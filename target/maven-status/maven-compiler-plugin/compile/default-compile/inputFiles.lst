@@ -1,0 +1,7 @@
+F:\sts_workspace\Inventory_Service\src\main\java\com\meru\inventory\InventoryServiceApplication.java
+F:\sts_workspace\Inventory_Service\src\main\java\com\meru\inventory\model\Inventory.java
+F:\sts_workspace\Inventory_Service\src\main\java\com\meru\inventory\service\InventoryService.java
+F:\sts_workspace\Inventory_Service\src\main\java\com\meru\inventory\service\JmsConfig.java
+F:\sts_workspace\Inventory_Service\src\main\java\com\meru\inventory\event\InventoryEvent.java
+F:\sts_workspace\Inventory_Service\src\main\java\com\meru\inventory\controller\InventoryController.java
+F:\sts_workspace\Inventory_Service\src\main\java\com\meru\inventory\repository\InventoryRepository.java
